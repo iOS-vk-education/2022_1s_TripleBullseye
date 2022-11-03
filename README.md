@@ -6,9 +6,9 @@
 
 
 ## Состав команды:
-**TeamLead** [Владислав Жембровский](https://github.com/Zhembr) 🫢
-**Developer** [Арсений Быков](https://github.com/INGIBITR) 😐
-**Developer** [Ильяс Мустафин](https://github.com/Mystr827/Mystr827) 🙄
-**Mentor** [Кирилл Костарев](https://github.com/Kirchberg) 🫡
+**TeamLead** [Владислав Жембровский](https://github.com/Zhembr) 🫢 <br> 
+**Developer** [Арсений Быков](https://github.com/INGIBITR) 😐 <br> 
+**Developer** [Ильяс Мустафин](https://github.com/Mystr827/Mystr827) 🙄 <br> 
+**Mentor** [Кирилл Костарев](https://github.com/Kirchberg) 🫡 <br> 
 
 ## [Figma Template](https://www.figma.com/file/m0IMSd7ZerRR6BKKFhtEEU/Art-club%27s-app?node-id=0:1)
